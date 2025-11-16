@@ -76,5 +76,6 @@ xgboost
 Then write in your README:
 
 ⚠️ Download dataset manually from Kaggle into the project root.
+https://www.kaggle.com/competitions/store-sales-time-series-forecasting/data?select=train.csv 
 
 
