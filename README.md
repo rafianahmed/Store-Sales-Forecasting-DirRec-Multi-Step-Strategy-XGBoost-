@@ -73,13 +73,8 @@ pandas
 numpy
 xgboost
 
+Then write in your README:
 
-Optional (for Kaggle)
-
-kaggle
-python >= 3.10
-
-🚀 Run the Model
-python store_sales_dirrec.py
+⚠️ Download dataset manually from Kaggle into the project root.
 
 
