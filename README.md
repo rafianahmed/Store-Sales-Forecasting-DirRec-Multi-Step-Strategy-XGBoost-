@@ -53,13 +53,6 @@ This reduces error propagation compared to recursive, while allowing dependency 
 6️⃣ Predict sequentially, updating input features after every step
 7️⃣ Return a 16-day forecast dataframe
 
- Example Output
-         date      prediction
-0  2017-08-16   312.44720459
-1  2017-08-17   305.93255615
-2  2017-08-18   298.71435547
-3  2017-08-19   294.43722534
-4  2017-08-20   287.92031860
 
 Tech Stack
 Python, Scikit-Learn, Pandas, NumPy, Matplotlib, Seaborn, XGBoost, LightGBM, TensorFlow/Keras (LSTM), Git, Jupyter, PyTorch
